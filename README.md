@@ -14,7 +14,7 @@
 
 * 사용할 수 있는 기능들을 표시  
 ````java
-	public void showCommand()	
+public void showCommand()	
 ````
 
 * Scanner 클래스를 사용하여 콘솔로부터 메모내용을 입력받는다. 
